@@ -1,4 +1,5 @@
 # WordPress Contact Form → Save to Database (Custom Post Type)
+[← กลับหน้าหลัก](WordPress_Training_IT_2Days.md)
 
 แทนการส่งอีเมล เปลี่ยนเป็นบันทึกลง WordPress database ผ่าน **Custom Post Type** ชื่อ `contact_submission`
 

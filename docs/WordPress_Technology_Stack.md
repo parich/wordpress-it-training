@@ -1,4 +1,5 @@
 # WordPress Technology Stack (PHP + MySQL)
+[← กลับหน้าหลัก](WordPress_Training_IT_2Days.md)
 
 > **"WordPress คือ PHP code ที่ดึงข้อมูลจาก MySQL มาสร้างเป็น HTML ส่งให้ Browser"**
 

@@ -1,5 +1,7 @@
 # Client–Server Model
 
+[← กลับหน้าหลัก](WordPress_Training_IT_2Days.md)
+
 > **"Client ถาม → Server ตอบ — ทุกหน้าเว็บที่เห็นคือผลของการสนทนานี้"**
 
 ---

@@ -1,4 +1,5 @@
 # LAMP / LEMP Stack
+[← กลับหน้าหลัก](WordPress_Training_IT_2Days.md)
 
 > **"Stack คือชุดซอฟต์แวร์ที่ทำงานร่วมกันเพื่อรันเว็บไซต์"**
 

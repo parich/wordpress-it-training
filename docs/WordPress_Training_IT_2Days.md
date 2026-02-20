@@ -20,7 +20,7 @@
 ### Tools Comparison
 
 - [ ] XAMPP
-- [ ] Local WP
+- [ ] [Local WP](LocalWP_Guide.md)
 - [ ] Docker
 
 ### Docker Workshop
@@ -30,26 +30,27 @@
 - [ ] [docker-compose.yml basics](Docker_Compose_Basics.md)
 - [ ] Run WordPress + MySQL with Docker
 - [ ] Access phpMyAdmin
+- [ ] [WP-CLI (WordPress Command Line Interface)](WP_CLI_Guide.md)
 
 ---
 
 ## 3. WordPress Structure
 
-- [ ] File Structure Overview
+- [ ] [File Structure Overview](WordPress_File_Structure.md)
 - [ ] wp-content
 - [ ] Themes & Plugins
-- [ ] wp-config.php
-- [ ] Database Structure Overview
+- [ ] [wp-config.php](WordPress_wp-config.md)
+- [ ] [Database Structure Overview](WordPress_Database_Structure.md)
 
 ---
 
 ## 4. Semantic Versioning
 
-- [ ] What is Semantic Versioning? (MAJOR.MINOR.PATCH)
-- [ ] WordPress Core Version
-- [ ] Theme & Plugin Version
-- [ ] When to Update (Breaking Changes)
-- [ ] PHP Version Compatibility
+- [ ] [What is Semantic Versioning? (MAJOR.MINOR.PATCH)](Semantic_Versioning.md)
+- [ ] [WordPress Core Version](Semantic_Versioning.md#4-wordpress-ใช้-semantic-versioning-อย่างไร)
+- [ ] [Theme & Plugin Version](Semantic_Versioning.md#5-plugin--theme-version)
+- [ ] [When to Update (Breaking Changes)](Semantic_Versioning.md#8-when-to-update--แนวทางปฏิบัติ)
+- [ ] [PHP Version Compatibility](Semantic_Versioning.md#6-php-version-กับ-compatibility)
 
 ---
 
@@ -57,13 +58,13 @@
 
 ### General Settings
 
-- [ ] Site Title & Tagline
-- [ ] WordPress Address & Site Address
-- [ ] Admin Email
-- [ ] Timezone & Date Format
-- [ ] Reading Settings (Front page, Blog page)
-- [ ] Discussion Settings (Disable Comments)
-- [ ] Permalink Structure
+- [ ] [Site Title & Tagline](WordPress_General_Settings.md#1-site-title--tagline)
+- [ ] [WordPress Address & Site Address](WordPress_General_Settings.md#2-wordpress-address--site-address)
+- [ ] [Admin Email](WordPress_General_Settings.md#3-administration-email-address)
+- [ ] [Timezone & Date Format](WordPress_General_Settings.md#5-site-language--timezone)
+- [ ] [Reading Settings (Front page, Blog page)](WordPress_General_Settings.md#8-reading-settings)
+- [ ] [Discussion Settings (Disable Comments)](WordPress_General_Settings.md#9-discussion-settings-disable-comments)
+- [ ] [Permalink Structure](WordPress_General_Settings.md#10-permalink-structure)
 
 ### Content
 
@@ -74,19 +75,22 @@
 
 ---
 
-## 6. Analyze Other Websites
+## 6. [Analyze Other Websites](Analyze_Other_Websites.md)
 
 ### Check Theme Used
 
-- [ ] View Source
-- [ ] whatwpthemeisthat.com
-- [ ] builtwith.com
+- [ ] [Wappalyzer (Browser Extension)](Analyze_Other_Websites.md#wappalyzer)
+- [ ] [WP Detector (Browser Extension)](Analyze_Other_Websites.md#wp-detector)
+- [ ] [View Source](Analyze_Other_Websites.md#2-view-page-source)
+- [ ] [whatwpthemeisthat.com](Analyze_Other_Websites.md#3-whatwpthemeisthatcom)
+- [ ] [builtwith.com](Analyze_Other_Websites.md#4-builtwithcom)
 
 ### Check Plugins Used
 
-- [ ] Inspect Element
-- [ ] Network Requests
-- [ ] builtwith.com
+- [ ] [Wappalyzer (Browser Extension)](Analyze_Other_Websites.md#wappalyzer)
+- [ ] [WP Detector (Browser Extension)](Analyze_Other_Websites.md#wp-detector)
+- [ ] [Inspect Element / Network Requests](Analyze_Other_Websites.md#5-chrome-devtools--network-tab)
+- [ ] [builtwith.com](Analyze_Other_Websites.md#4-builtwithcom)
 
 ---
 

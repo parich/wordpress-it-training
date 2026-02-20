@@ -1,4 +1,5 @@
 # XAMPP Port Troubleshooting (Windows PowerShell)
+[← กลับหน้าหลัก](WordPress_Training_IT_2Days.md)
 
 ## ปัญหา: Port ถูกใช้งานอยู่ (Port Already in Use)
 
