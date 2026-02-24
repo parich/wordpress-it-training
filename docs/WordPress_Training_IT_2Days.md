@@ -12,6 +12,8 @@
 - [ ] [HTTP / HTTPS](HTTP_HTTPS.md)
 - [ ] [LAMP / LEMP Stack](LAMP_LEMP_Stack.md)
 - [ ] [WordPress Technology Stack (PHP + MySQL)](WordPress_Technology_Stack.md)
+- [ ] [ตรวจสอบ Domain และ IP ด้วย nslookup](DNS_Lookup_Guide.md)
+- [ ] [Web Control Panel และสิทธิ์ผู้ดูแลระบบ (cPanel, CyberPanel, HestiaCP, FTP, DB)](Web_Control_Panel_Guide.md)
 
 ---
 
@@ -29,7 +31,7 @@
 - [ ] Container vs VM
 - [ ] [docker-compose.yml basics](Docker_Compose_Basics.md)
 - [ ] Run WordPress + MySQL with Docker
-- [ ] Access phpMyAdmin
+- [ ] [Access phpMyAdmin — Import / Export ข้ามฐานข้อมูลและข้ามเว็บไซต์](phpMyAdmin_Guide.md)
 - [ ] [WP-CLI (WordPress Command Line Interface)](WP_CLI_Guide.md)
 
 ---
@@ -66,7 +68,20 @@
 - [ ] [Discussion Settings (Disable Comments)](WordPress_General_Settings.md#9-discussion-settings-disable-comments)
 - [ ] [Permalink Structure](WordPress_General_Settings.md#10-permalink-structure)
 
-### Content
+### WordPress Basic Usage
+
+- [ ] [Dashboard, Login, Visit Site](WordPress_Basic_Usage.md#1-เข้าสู่ระบบ-wordpress)
+- [ ] [Pages — หน้าคงที่](WordPress_Basic_Usage.md#21-pages-หน้าคงที่)
+- [ ] [Posts — บทความ](WordPress_Basic_Usage.md#22-posts-บทความ)
+- [ ] [Categories](WordPress_Basic_Usage.md#221-categories-หมวดหมู่)
+- [ ] [Tags](WordPress_Basic_Usage.md#222-tags-ป้ายกำกับ)
+- [ ] [Media — รูปภาพและไฟล์](WordPress_Basic_Usage.md#23-media-ไฟล์มีเดีย)
+- [ ] [Users & Roles](WordPress_Basic_Usage.md#3-users-ผู้ใช้งาน)
+- [ ] [Plugins](WordPress_Basic_Usage.md#4-plugins-ปลั๊กอิน)
+- [ ] [Appearance — Theme, Menu, Widget](WordPress_Basic_Usage.md#5-appearance-รูปลักษณ์)
+- [ ] [Settings — General, Reading, Permalinks](WordPress_Basic_Usage.md#6-settings-การตั้งค่า)
+
+### Content Workshop
 
 - [ ] Create Pages
 - [ ] Create Posts
@@ -172,7 +187,10 @@
 ### Hardening
 
 - [ ] Update Core / Theme / Plugin
-- [ ] Backup Strategy
+- [ ] [Backup Strategy](WordPress_Backup_Guide.md)
+  - [ ] [Manual Backup (phpMyAdmin + wp-content zip)](WordPress_Backup_Guide.md#1-manual-backup-ไม่ใช้-plugin)
+  - [ ] [Plugin: UpdraftPlus](WordPress_Backup_Guide.md#2-plugin-updraftplus)
+  - [ ] [Plugin: All-in-One WP Migration](WordPress_Backup_Guide.md#3-plugin-all-in-one-wp-migration)
 - [ ] Disable XML-RPC
 - [ ] Limit Login Attempts Plugin
 - [ ] Two-Factor Authentication (2FA)
