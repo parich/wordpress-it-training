@@ -91,13 +91,20 @@ Content
 5. คลิก **Publish**
 
 ```
-Pages
-├── Home
-├── About Us
-├── Services
-│   ├── Web Design      ← Sub-page (Parent = Services)
-│   └── Consulting
-└── Contact
+Pages                                Title (ภาษาไทย)        Slug (URL)
+├── หน้าแรก                          หน้าแรก               /home
+├── เกี่ยวกับเรา                      เกี่ยวกับเรา           /about
+│   ├── ประวัติความเป็นมา             ประวัติความเป็นมา      /about/history
+│   ├── วิสัยทัศน์และพันธกิจ          วิสัยทัศน์และพันธกิจ   /about/vision
+│   └── โครงสร้างองค์กร              โครงสร้างองค์กร        /about/organization
+├── หลักสูตร                         หลักสูตร              /programs
+│   ├── ปริญญาตรี                    ปริญญาตรี             /programs/bachelor
+│   └── ปริญญาโท                    ปริญญาโท              /programs/master
+├── บุคลากร                         บุคลากร               /staff
+├── ข่าวสาร                         ข่าวสาร               /news        ← Posts page
+├── ดาวน์โหลด                       ดาวน์โหลด             /download
+├── นโยบายความเป็นส่วนตัว            นโยบายความเป็นส่วนตัว  /privacy-policy
+└── ติดต่อเรา                        ติดต่อเรา             /contact
 ```
 
 ---
@@ -134,12 +141,12 @@ Pages
 - URL: `example.com/category/ชื่อ-category/`
 
 ```
-ตัวอย่าง Categories:
-├── ข่าวสาร
-│   ├── ข่าวมหาวิทยาลัย
-│   └── ข่าวกิจกรรม
-├── บทความวิชาการ
-└── ประกาศ
+ตัวอย่าง Categories:       Slug (URL)
+├── ข่าวสาร               /category/news
+│   ├── ข่าวมหาวิทยาลัย   /category/news/university
+│   └── ข่าวกิจกรรม       /category/news/activity
+├── บทความวิชาการ         /category/academic
+└── ประกาศ               /category/announcement
 ```
 
 **เพิ่ม Category:**

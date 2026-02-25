@@ -65,7 +65,7 @@
 - [ ] [Admin Email](WordPress_General_Settings.md#3-administration-email-address)
 - [ ] [Timezone & Date Format](WordPress_General_Settings.md#5-site-language--timezone)
 - [ ] [Reading Settings (Front page, Blog page)](WordPress_General_Settings.md#8-reading-settings)
-- [ ] [Discussion Settings (Disable Comments)](WordPress_General_Settings.md#9-discussion-settings-disable-comments)
+- [ ] [Discussion Settings — ลดสแปม ป้องกันลิงก์อันตราย ควบคุมคุณภาพ Comment](WordPress_Discussion_Settings.md)
 - [ ] [Permalink Structure](WordPress_General_Settings.md#10-permalink-structure)
 
 ### WordPress Basic Usage
@@ -78,6 +78,7 @@
 - [ ] [Media — รูปภาพและไฟล์](WordPress_Basic_Usage.md#23-media-ไฟล์มีเดีย)
 - [ ] [Users & Roles](WordPress_Basic_Usage.md#3-users-ผู้ใช้งาน)
 - [ ] [Plugins](WordPress_Basic_Usage.md#4-plugins-ปลั๊กอิน)
+- [ ] [Plugins แนะนำ แยกตามหมวด (SEO, Security, Cache, Backup, Form, Spam)](WordPress_Recommended_Plugins.md)
 - [ ] [Appearance — Theme, Menu, Widget](WordPress_Basic_Usage.md#5-appearance-รูปลักษณ์)
 - [ ] [Settings — General, Reading, Permalinks](WordPress_Basic_Usage.md#6-settings-การตั้งค่า)
 

@@ -1,1 +1,9 @@
+# WordPress installation files
 /wordpress
+/wp/www
+
+# Database dumps
+*.sql
+
+# Environment variables (uncomment if not training project)
+# .env
