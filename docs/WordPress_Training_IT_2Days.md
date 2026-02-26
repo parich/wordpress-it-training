@@ -43,6 +43,7 @@
 - [ ] Themes & Plugins
 - [ ] [wp-config.php](WordPress_wp-config.md)
 - [ ] [Database Structure Overview](WordPress_Database_Structure.md)
+- [ ] [WordPress REST API — /wp-json/ และ ?rest_route= (ดึงข้อมูล JSON, Security)](WordPress_REST_API.md)
 
 ---
 
